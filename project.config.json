@@ -24,7 +24,10 @@
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
-    }
+    },
+    "useCompilerPlugins": [
+      "sass"
+    ]
   },
   "condition": {},
   "editorSetting": {
